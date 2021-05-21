@@ -1,0 +1,66 @@
+.body{
+    margin:auto;
+    height: 15rem;
+    width:25rem;
+    margin-top: 10rem;
+    border-style: solid;
+    border-color: skyblue;
+    text-align: center;
+    padding-top: 10px;
+    background-color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    border-radius: 3%;
+
+}
+.a{
+    margin:auto;
+    height: 15rem;
+    width:25rem;
+    margin-top: 10rem;
+    border-style: solid;
+    border-color:green;
+    text-align: center;
+    padding-top: 10px;
+    background-color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    border-radius: 3%;
+}
+.r{
+    margin:auto;
+    height: 15rem;
+    width:25rem;
+    margin-top: 10rem;
+    border-style: solid;
+    border-color:red;
+    text-align: center;
+    padding-top: 10px;
+    background-color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    border-radius: 3%;
+}
+.username{
+    margin-top:4rem;
+}
+.password{
+    margin-top: 1rem;
+}   
+button{
+  height: 2.5rem;  
+  width:3.5rem;
+  margin-top: 3rem;
+}
+.b1{
+height: 2.5rem;  
+width:3.5rem;
+margin-top: 3rem;
+border-color: green;
+}
+.b2{
+    height: 2.5rem;  
+    width:3.5rem;
+    margin-top: 3rem;
+    border-color: red;
+}
